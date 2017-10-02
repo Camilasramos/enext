@@ -1,0 +1,238 @@
+.cor-laranja {
+	color: #d73d22;
+}
+
+.cor-roxa {
+	color: #523568;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.principal {
+	width: 1170px;
+	position: relative;
+	margin: 0 auto;
+}
+
+.principal > .head {
+	width: 100%;
+}
+
+.linha-colunas:after {
+	clear: both;
+}
+
+.coluna-3 {
+	width: 33.33333333%;
+	float: left;
+	position: relative;
+}
+.coluna-3 li ul {
+position: absolute;
+	left: 149px;
+	top: 0;
+	display: none;
+}
+
+.coluna-5 {
+	width: 50%;
+	float: left;
+	position: relative;
+}
+
+.principal > .head .title {
+	font-family: "Oswald";	
+	text-transform: uppercase;
+	font-weight: 100;
+	margin-bottom: 0;
+	font-size: 37px;
+}
+
+.principal > .head .subtitle {
+	font-style: italic;
+	margin-top: 0;
+}
+
+.principal > .head .coluna-carrinho {
+	margin-top: 30px;
+}
+
+.principal > .head .coluna-carrinho h3, .principal > .head .coluna-carrinho h4 {
+	font-style: italic;
+}
+
+.principal > .head .coluna-carrinho h3 {
+	margin-bottom: 0;
+}
+
+.principal > .head .coluna-carrinho h4 {
+	margin-top: 0;
+}
+
+.carrinho {
+    margin-top: 30px;
+    font-size: 20px;
+    font-family: Arial;
+    color: #ccc;
+    font-weight: bold;
+}
+
+.busca {
+	padding: 10px 0 10px 30px;
+    border-radius: 5px;
+    box-shadow: none;
+    border: 2px solid #ccc;
+    width: 80%;
+    margin: 50px 0;
+}
+
+
+.menu {
+	height: 40px;
+	width: 100%;
+	background-color: #68228B;
+	padding-left: 10%;
+}
+.menu
+    {
+padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.menu {
+	font-size: 30px;
+	font-style: "Oswald";
+	display: inline-block;
+}
+.menu ul {
+    padding:0px;
+    margin:0px;
+    background-color:#68228B;
+    list-style:none;
+    font-style: "Oswald";
+}
+.menu ul li { display: inline; }
+
+.menu ul li a {
+    padding: 5px 15px;
+    display: inline-block;
+
+    /* visual do link */
+    background-color:#68228B;
+    color: white;
+    text-decoration: none;
+    border-bottom:3px solid #68228B;
+}
+
+.corpo {
+	padding-top: 80px;
+}
+.potion {
+	font font-family: "Droid Sans";
+	font-size: 30px;
+	padding-bottom: 5px;
+
+}
+.corpo {
+	width: 1170px;
+	position: relative;
+	margin: 0 auto;
+}
+
+.potion1 {
+	width: 33.33333333%;
+	float: left;
+	position: relative;
+
+}
+
+.potion2 {
+	width: 33.33333333%;
+	float: left;
+	position: relative;
+}
+
+.potion3 {
+	width: 33.33333333%;
+	float: left;
+	position: relative;
+}
+
+.potion4 {
+	width: 33.33333333%;
+	float: left;
+	position: relative;
+	padding-top: 40px;
+}
+
+.potion5 {
+	width: 33.33333333%;
+	float: left;
+	position: relative;
+	padding-top: 40px;
+}
+
+.potion6 {
+	width: 33.33333333%;
+	float: left;
+	position: relative;
+	padding-top: 40px;
+}
+
+.rodape {
+	height: 40px;
+	width: 100%;
+	text-transform: uppercase;
+	padding-left: 10%;
+	font-size: 25px
+	font-style: "Oswald";
+	color: red;
+	background-color: dark;
+
+}
+.rodape {
+	display: inline;
+}
+.rodape {
+	
+	padding: 100px 75px;
+    display: inline-block;
+    background-color:#D8BFD8;
+    color: white;
+    text-decoration: none;
+    border-bottom:3px solid #D8BFD8;
+
+}
+
+.company {
+	width: 20%;
+	float: left;
+	position: relative;
+	padding: 10px 15px;
+}
+.contact {
+	width: 20%;
+	float: left;
+	position: relative;
+	padding-top: 20px;
+}
+.shipping {
+	width: 20%;
+	float: left;
+	position: relative;
+	
+}
+.newsletter {
+	background-color: #FFFFE0;
+	position: relative;
+	height: 35px;
+	width: 30%;
+	padding: 100px 75px;
+font-family: "Oswald";
+	float: right;
+	color: black;
+
+
+}
